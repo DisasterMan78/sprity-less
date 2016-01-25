@@ -47,5 +47,6 @@
     "handlebars": "^3.0.1",
     "mocha": "^2.2.4",
     "prettydiff": "^1.11.11"
-  }
+  },
+  "private": true
 }
